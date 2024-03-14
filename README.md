@@ -13,9 +13,9 @@ Currently, I am a postdoctoral researcher in [Dr Daniel Hodson’s lab](https://
 
 The [DIRECT Trial](https://www.youtube.com/watch?v=tgl6z_Y7IyI) is a prospective molecular profiling trial of patients undergoing first-line therapy for DLBCL. We developed a customised capture panel and analytical pipeline AULE (Automated Ultrasensitive Lymphoma Evaluation) for ultrasensitive assessment of ctDNA in patients with DLBCL. 
 
+[Review: Genetic Profiling in Diffuse Large B-Cell Lymphoma: The Promise and the Challenge](https://www.sciencedirect.com/science/article/abs/pii/S0893395222000072)
+
 ##### Elucidating the role of pervasive translation of microproteins in lymphoma and immunity 
 
 The human genome is believed to encompass around 20,000 protein-coding sequences. However, recent advancements in sequencing technologies, like Ribo-Seq, have opened up exciting possibilities for re-evaluating the landscape of translated Open Reading Frames (ORFs). This project aims to undertake a comprehensive examination of non-canonical ORFs in B-cells. There is potential for this project to reveal an entire new level of regulation in B cell malignancy and immunity. 
 
----
-[Google Scholar](https://scholar.google.com/citations?user=2tuqzowAAAAJ&hl=en)
