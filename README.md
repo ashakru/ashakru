@@ -18,4 +18,4 @@ The [DIRECT Trial](https://www.youtube.com/watch?v=tgl6z_Y7IyI) is a prospective
 The human genome is believed to encompass around 20,000 protein-coding sequences. However, recent advancements in sequencing technologies, like Ribo-Seq, have opened up exciting possibilities for re-evaluating the landscape of translated Open Reading Frames (ORFs). This project aims to undertake a comprehensive examination of non-canonical ORFs in B-cells. There is potential for this project to reveal an entire new level of regulation in B cell malignancy and immunity. 
 
 ---
-[Google Scholar](https://scholar.google.com/citations?user=2tuqzowAAAAJ&hl=en)https://scholar.google.com/citations?user=2tuqzowAAAAJ&hl=en
+[Google Scholar](https://scholar.google.com/citations?user=2tuqzowAAAAJ&hl=en)
