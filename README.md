@@ -4,7 +4,7 @@ _Computational Haematology and Genomics_
 
 ---
 
-<img width="550" alt="DLBCL_topography" align = "left" src="https://github.com/ashakru/ashakru/assets/32344189/9ebc17a8-d7c8-4cd8-8dc1-9e5cc7e0c795">
+<img width="520" alt="DLBCL_topography" align = "left" src="https://github.com/ashakru/ashakru/assets/32344189/9ebc17a8-d7c8-4cd8-8dc1-9e5cc7e0c795">
 
 
 ```
