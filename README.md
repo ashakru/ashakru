@@ -3,7 +3,7 @@
 _Computational Haematology and Genomics_
 
 ---
-<img width="622" alt="DLBCL_topography" align = "left" src="https://github.com/ashakru/ashakru/assets/32344189/9ebc17a8-d7c8-4cd8-8dc1-9e5cc7e0c795">
+<img width="500" alt="DLBCL_topography" align = "left" src="https://github.com/ashakru/ashakru/assets/32344189/9ebc17a8-d7c8-4cd8-8dc1-9e5cc7e0c795">
 
 _Topography of DLBCL genetic landscape. Coloured hills depict known genetic subtypes. Whilst patients positioned on top of the coloured “hills” will be reproducibly classified by each classification system, patients positioned in the “valleys” may be unclassified or classified alternatively across different classification systems. Hills without colour correspond to unknown DLBCL subtypes which may emerge in the future from currently unclassified cases._
 
