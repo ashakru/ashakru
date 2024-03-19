@@ -1,7 +1,15 @@
 ### Joanna Krupka MD PhD
 
----
 _Computational Haematology and Genomics_
+
+---
+<img width="622" alt="DLBCL_topography" align = "left" src="https://github.com/ashakru/ashakru/assets/32344189/9ebc17a8-d7c8-4cd8-8dc1-9e5cc7e0c795">
+
+_Topography of DLBCL genetic landscape. Coloured hills depict known genetic subtypes. Whilst patients positioned on top of the coloured “hills” will be reproducibly classified by each classification system, patients positioned in the “valleys” may be unclassified or classified alternatively across different classification systems. Hills without colour correspond to unknown DLBCL subtypes which may emerge in the future from currently unclassified cases._
+
+---
+
+
 
 I am first and foremost a **computational clinician**. I look at medicine through big data, thinking about patients I can help in the future. I am focusing on studying cancer genomics with special interest in protein translation. My ambition is to drive change in how we diagnose and treat haematological malignancies. This is a team effort, therefore I am a committed advocate for **open science**. I believe that transparency, collaboration, and accessibility serve as catalysts for accelerated progress in science. 
 
