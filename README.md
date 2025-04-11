@@ -34,6 +34,7 @@ Currently, I am a postdoctoral researcher in [Dr Daniel Hodson’s lab](https://
 
 The [DIRECT Trial](https://www.youtube.com/watch?v=tgl6z_Y7IyI) is a *prospective* molecular profiling trial of patients undergoing first-line therapy for DLBCL. We are developing a customised capture panel and analytical pipeline AULE (Automated Ultrasensitive Lymphoma Evaluation) for ultrasensitive assessment of ctDNA in patients with DLBCL. Our mission is to make liquid biopsy diagnostics avaliable for NHS patients. 
 
+Software: [AULE - an end-to-end pipeline for ctDNA analysis, including MRD detection with phased variants](https://github.com/Hodson-Bioinformatics/Aule)  
 Review: [Genetic Profiling in Diffuse Large B-Cell Lymphoma: The Promise and the Challenge](https://www.sciencedirect.com/science/article/abs/pii/S0893395222000072)
 
 #### :crystal_ball: What is the role of microproteins in lymphoma and immunity?
