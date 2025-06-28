@@ -36,7 +36,9 @@ The [DIRECT Trial](https://www.youtube.com/watch?v=tgl6z_Y7IyI) is a *prospectiv
 
 Software: [AULE - an end-to-end pipeline for ctDNA analysis, including MRD detection with phased variants](https://github.com/Hodson-Bioinformatics/Aule)  
 DIRECT trial preprint: [The DIRECT study: A roadmap for ctDNA-based risk prediction, molecular profiling and MRD detection in DLBCL](https://www.medrxiv.org/content/10.1101/2025.04.14.25325806v1)  
-Review: [Genetic Profiling in Diffuse Large B-Cell Lymphoma: The Promise and the Challenge](https://www.sciencedirect.com/science/article/abs/pii/S0893395222000072)
+Review: [Genetic Profiling in Diffuse Large B-Cell Lymphoma: The Promise and the Challenge](https://www.sciencedirect.com/science/article/abs/pii/S0893395222000072)  
+Preprint: [The DIRECT study: A roadmap for ctDNA-based risk prediction, molecular profiling and MRD detection in Diffuse Large B Cell Lymphoma](https://www.medrxiv.org/content/10.1101/2025.04.14.25325806v1)  
+Editorial: [Class struggle in DLBCL](https://ashpublications.org/blood/article/145/18/1967/536865/Class-struggle-in-DLBCL)  
 
 #### :crystal_ball: What is the role of microproteins in lymphoma and immunity?
 
